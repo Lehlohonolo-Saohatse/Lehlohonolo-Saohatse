@@ -1,87 +1,37 @@
-public class LehlohonoloSaohatse {
-    
-    // Personal Info
-    private String name = "Lehlohonolo Saohatse";
-    private String email = "lehlohonolosaohatse03@gmail.com";
-    private String university = "North-West University";
-    private String degree = "BSc in Computer Science and Electronics";
-    private String gradYear = "2026";
-    
-    // Academic Background
-    private String[] certifications = {
-        "Ethical Hacking Essentials (EC-Council)",
-        "Cybersecurity for Businesses - The Fundamental Edition (EC-Council)",
-        "A Practical Introduction to Cloud Computing (EC-Council)"
-    };
+# Lehlohonolo Saohatse 👾
 
-    // Skills
-    private String[] programmingSkills = {"Python", "Java", "C++", "MATLAB"};
-    private String[] softSkills = {
-        "Academic Writing: clear, concise, and effective communication",
-        "Problem-Solving: creative and analytical thinking",
-        "Adaptability: quick learner, flexible in new situations",
-        "Teamwork & Collaboration: effective in group settings",
-        "Microsoft Office Suite: proficiency in document creation, spreadsheets, presentations"
-    };
-    
-    // Interests
-    private String[] interests = {
-        "System Design & Development",
-        "Cybersecurity & Ethical Hacking",
-        "Artificial Intelligence",
-        "Collaborations with like-minded individuals"
-    };
-    
-    public static void main(String[] args) {
-        LehlohonoloSaohatse lehlohonolo = new LehlohonoloSaohatse();
-        lehlohonolo.introduce();
-        lehlohonolo.showCertifications();
-        lehlohonolo.showSkills();
-        lehlohonolo.showInterests();
-        lehlohonolo.contactInfo();
-    }
+Hey there! I'm **Lehlohonolo Saohatse**, your friendly neighborhood code wizard 🧙‍♂️, currently leveling up as a **Computer Science and Electronics** student at **North-West University**. With a passion for breaking (and fixing) things, I’m on a mission to make an impact in the tech space while excelling academically (because, why not? 😎).
 
-    public void introduce() {
-        System.out.println("Hello! I am " + name + ", a dedicated and motivated student currently pursuing a " 
-            + degree + " at " + university + ".\nI am deeply passionate about my field of study and aim to excel "
-            + "academically while making a meaningful impact in the technology space.");
-    }
-    
-    public void showCertifications() {
-        System.out.println("\n🎓 Academic Background\n- " + degree + " at " + university 
-            + "\n- Strong commitment to academic excellence and holistic development");
-        
-        System.out.println("\n📜 Certifications:");
-        for (String cert : certifications) {
-            System.out.println("- " + cert);
-        }
-    }
-    
-    public void showSkills() {
-        System.out.println("\n🛠️ Skills:");
-        System.out.println("Programming Languages:");
-        for (String skill : programmingSkills) {
-            System.out.println("- " + skill);
-        }
-        System.out.println("\nSoft Skills:");
-        for (String skill : softSkills) {
-            System.out.println("- " + skill);
-        }
-    }
-    
-    public void showInterests() {
-        System.out.println("\n🌱 Interests:");
-        for (String interest : interests) {
-            System.out.println("- " + interest);
-        }
-    }
-    
-    public void contactInfo() {
-        System.out.println("\n📚 Education:");
-        System.out.println("National Senior Certificate, South Africa");
-        System.out.println(degree + ", " + university + " (grad " + gradYear + ")");
+## 💻 Academic Background
+🎓 **BSc in Computer Science & Electronics** – North-West University  
+⚡ Always pushing for that extra credit, both in knowledge and experience.
 
-        System.out.println("\n📧 Contact: You can reach me via email at " + email);
-        System.out.println("\n🌐 Portfolio Website: coming soon!!!");
-    }
-}
+## ⚡ Personal Qualities
+- 🎯 Laser-focused on system design, cybersecurity, and AI.
+- 🤖 A passion for innovating with technology and making things that matter.
+- 🌍 Dedicated to using tech for a meaningful impact on society. (Saving the world, one line of code at a time.)
+
+## 🛠️ Tech Stack & Skills
+- **Languages**: Python, Java, C++, MATLAB (and always adding more)
+- **Cybersecurity**: Certified in *Ethical Hacking Essentials* (EC-Council)
+- **Cloud Computing**: Yeah, I’m in the cloud (literally) ☁️
+- **Problem-Solving**: AKA debugging at 3AM 🔍
+- **Teamwork**: Can collaborate like a well-tuned API.
+
+## 🧠 Interests
+- 🏗️ **System Design & Development**  
+- 🛡️ **Cybersecurity & Ethical Hacking**  
+- 🤖 **Artificial Intelligence**  
+- 🤝 **Collaborations**: Let’s team up and build something epic.
+
+## 🎓 Education
+- **National Senior Certificate**, South Africa  
+- **BSc in Computer Science & Electronics** (Graduating 2026)
+
+## 🔮 Future Plans
+I'm always on the lookout for exciting projects and opportunities to learn something new. Open to collaborations, discussions about tech, or even just nerding out over the latest sci-fi movie. Let’s connect and see where the code takes us!
+
+---
+
+📧 **Email**: lehlohonolosaohatse03@gmail.com  
+🌐 **Portfolio**: Coming soon! 🚀
