@@ -29,8 +29,11 @@ Hey there! I'm **Lehlohonolo Saohatse**, your friendly neighborhood code wizard 
 - **BSc in Computer Science & Electronics** (Graduating 2026)
 
 ## 🔮 Future Plans
-I'm always on the lookout for exciting projects and opportunities to learn something new. Open to collaborations, discussions about tech, or even just nerding out over the latest sci-fi movie. Let’s connect and see where the code takes us!
+I’m always on the lookout for exciting API endpoints and opportunities to debug and deploy new tech stacks. Whether it's integrating with a new RESTful service, experimenting with GraphQL queries, or optimizing microservices architecture, I’m eager to explore and learn.
 
+I’m open to collaborating on projects involving OAuth implementations, rate-limiting strategies, or real-time data streaming with WebSockets. If you’re keen on discussing the latest in API design, serverless architectures, or the coolest SDKs and libraries, let’s sync up and geek out together.
+
+Let’s connect, build some robust endpoints, and see where the codebase takes us!
 ---
 
 📧 **Email**: lehlohonolosaohatse03@gmail.com  
