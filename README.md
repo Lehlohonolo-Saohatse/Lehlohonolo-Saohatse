@@ -1,6 +1,6 @@
 # Lehlohonolo Saohatse 👾
 
-Hey there! I'm **Lehlohonolo Saohatse**, your friendly neighborhood code wizard 🧙‍♂️, currently leveling up as a **Computer Science and Electronics** student at **North-West University**. With a passion for breaking (and fixing) things, I’m on a mission to make an impact in the tech space while excelling academically (because, why not? 😎).
+Hey there! I'm **Lehlohonolo Saohatse**, your friendly neighborhood code wizard 🧙‍♂️, currently leveling up as a **Computer Science and Electronics** student at **North-West University**. With a passion for breaking (and fixing) things, I’m on a mission to make an impact in the tech space (because, why not? 😎).
 
 ## 💻 Academic Background
 🎓 **BSc in Computer Science & Electronics** – North-West University  
