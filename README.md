@@ -1,42 +1,87 @@
-# Lehlohonolo Saohatse
+public class LehlohonoloSaohatse {
+    
+    // Personal Info
+    private String name = "Lehlohonolo Saohatse";
+    private String email = "lehlohonolosaohatse03@gmail.com";
+    private String university = "North-West University";
+    private String degree = "BSc in Computer Science and Electronics";
+    private String gradYear = "2026";
+    
+    // Academic Background
+    private String[] certifications = {
+        "Ethical Hacking Essentials (EC-Council)",
+        "Cybersecurity for Businesses - The Fundamental Edition (EC-Council)",
+        "A Practical Introduction to Cloud Computing (EC-Council)"
+    };
 
-Hello! I am **Lehlohonolo Saohatse**, a dedicated and motivated student currently pursuing a **BSc in Computer Science and Electronics** at **North-West University**. I am deeply passionate about my field of study and aim to excel academically while making a meaningful impact in the technology space.
+    // Skills
+    private String[] programmingSkills = {"Python", "Java", "C++", "MATLAB"};
+    private String[] softSkills = {
+        "Academic Writing: clear, concise, and effective communication",
+        "Problem-Solving: creative and analytical thinking",
+        "Adaptability: quick learner, flexible in new situations",
+        "Teamwork & Collaboration: effective in group settings",
+        "Microsoft Office Suite: proficiency in document creation, spreadsheets, presentations"
+    };
+    
+    // Interests
+    private String[] interests = {
+        "System Design & Development",
+        "Cybersecurity & Ethical Hacking",
+        "Artificial Intelligence",
+        "Collaborations with like-minded individuals"
+    };
+    
+    public static void main(String[] args) {
+        LehlohonoloSaohatse lehlohonolo = new LehlohonoloSaohatse();
+        lehlohonolo.introduce();
+        lehlohonolo.showCertifications();
+        lehlohonolo.showSkills();
+        lehlohonolo.showInterests();
+        lehlohonolo.contactInfo();
+    }
 
-## 🎓 Academic Background
-- BSc in **Computer Science and Electronics** at North-West University
-- Strong commitment to academic excellence and holistic development
+    public void introduce() {
+        System.out.println("Hello! I am " + name + ", a dedicated and motivated student currently pursuing a " 
+            + degree + " at " + university + ".\nI am deeply passionate about my field of study and aim to excel "
+            + "academically while making a meaningful impact in the technology space.");
+    }
+    
+    public void showCertifications() {
+        System.out.println("\n🎓 Academic Background\n- " + degree + " at " + university 
+            + "\n- Strong commitment to academic excellence and holistic development");
+        
+        System.out.println("\n📜 Certifications:");
+        for (String cert : certifications) {
+            System.out.println("- " + cert);
+        }
+    }
+    
+    public void showSkills() {
+        System.out.println("\n🛠️ Skills:");
+        System.out.println("Programming Languages:");
+        for (String skill : programmingSkills) {
+            System.out.println("- " + skill);
+        }
+        System.out.println("\nSoft Skills:");
+        for (String skill : softSkills) {
+            System.out.println("- " + skill);
+        }
+    }
+    
+    public void showInterests() {
+        System.out.println("\n🌱 Interests:");
+        for (String interest : interests) {
+            System.out.println("- " + interest);
+        }
+    }
+    
+    public void contactInfo() {
+        System.out.println("\n📚 Education:");
+        System.out.println("National Senior Certificate, South Africa");
+        System.out.println(degree + ", " + university + " (grad " + gradYear + ")");
 
-## 🌟 Personal Qualities
-- Dedicated and motivated in all endeavors
-- Passionate about system design, cybersecurity, and artificial intelligence
-- Committed to contributing to society with technical skills and innovations
-
-## 📜 Certifications
-- **Ethical Hacking Essentials** (EC-Council)
-- **Cybersecurity for Businesses - The Fundamental Edition** (EC-Council)
-- **A Practical Introduction to Cloud Computing** (EC-Council)
-
-## 🛠️ Skills
-- Programming (Python, Java, C++, MATLAB)
-- **Academic Writing**: clear, concise, and effective communication
-- **Problem-Solving**: creative and analytical thinking
-- **Adaptability**: quick learner, flexible in new situations
-- **Teamwork & Collaboration**: effective in group settings
-- **Microsoft Office** Suite: proficiency in document creation, spreadsheets, presentations
-
-## 🌱 Interests
-- **System Design & Development**
-- **Cybersecurity & Ethical Hacking**
-- **Artificial Intelligence**
-- **Collaborations** with like-minded individuals and professionals
-
-## 📚 Education
-- **National Senior Certificate**, South Africa
-- **Bachelor of Science in Computer Science and Electronics**, North-West University (grad 2026)
-
-I am excited to continue growing in my field and contributing to innovative projects that can positively impact society. Feel free to explore my projects and connect with me!
-
----
-📧 **Contact**: You can reach me via email at lehlohonolosaohatse03@gmail.com.
-
-🌐 **Portfolio Website**: coming soon!!!
+        System.out.println("\n📧 Contact: You can reach me via email at " + email);
+        System.out.println("\n🌐 Portfolio Website: coming soon!!!");
+    }
+}
