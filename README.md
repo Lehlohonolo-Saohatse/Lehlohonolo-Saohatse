@@ -13,7 +13,7 @@ Hey there! I'm **Lehlohonolo Saohatse**, your friendly neighborhood code wizard 
 
 ## 🛠️ Tech Stack & Skills
 - **Languages**: Python, Java, C++, MATLAB (and always adding more)
-- **Cybersecurity**: Certified in *Ethical Hacking Essentials* (EC-Council)
+- **Cybersecurity**: Certified in *Ethical Hacking Essentials*, *Cybersecurity for Businesses - The Fundamental Edition* by (EC-Council)
 - **Cloud Computing**: Yeah, I’m in the cloud (literally) ☁️
 - **Problem-Solving**: AKA debugging at 3AM 🔍
 - **Teamwork**: Can collaborate like a well-tuned API.
