@@ -38,3 +38,4 @@ Let’s connect, build some robust endpoints, and see where the codebase takes u
 
 📧 **Email**: lehlohonolosaohatse03@gmail.com  
 🌐 **Portfolio**: Coming soon! 🚀
+🌐 **Other Links** : https://hyperskill.org/profile/612232665
