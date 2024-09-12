@@ -38,4 +38,7 @@ Let’s connect, build some robust endpoints, and see where the codebase takes u
 
 📧 **Email**: lehlohonolosaohatse03@gmail.com  
 🌐 **Portfolio**: Coming soon! 🚀
-- **Other Links** : https://hyperskill.org/profile/612232665, https://tinyurl.com/4xz63wmu (NWU LMS Testing phase winners)
+- **Other Links**
+  - [x] https://hyperskill.org/profile/612232665 (Hyperskill Profile)
+  - [x] https://tinyurl.com/4xz63wmu (NWU NEW LMS Testing phase winners)
+  - [ ] https://za.linkedin.com/in/lehlohonolo-saohatse-ab6ab624b (LinkedIn Profile)
