@@ -37,7 +37,7 @@ Let’s connect, build some robust endpoints, and see where the codebase takes u
 ---
 
 📧 **Email**: lehlohonolosaohatse03@gmail.com  
-🌐 **Portfolio**: http://ruth3r4rd1um104.me 🚀 (Still Under Construction though🤖)
+🌐 **Portfolio**: http://ruth3r4rd1um104.me (Still Under Construction though) 🚀
 - **Other Links**
   - [x] https://hyperskill.org/profile/612232665 (Hyperskill Profile)
   - [x] https://tinyurl.com/4xz63wmu (NWU NEW LMS Testing phase winners)
