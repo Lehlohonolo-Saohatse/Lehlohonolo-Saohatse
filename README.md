@@ -36,7 +36,7 @@ I’m open to collaborating on projects involving OAuth implementations, rate-li
 Let’s connect, build some robust endpoints, and see where the codebase takes us!
 ---
 
-📧 **Email**: 🤡 
+📧 **Email**: 🤡  
 🌐 **Portfolio**: http://ruth3r4rd1um104.me (Still Under Construction though) 🚀
 - **Other Links**
   - [x] https://hyperskill.org/profile/612232665 (Hyperskill Profile)
