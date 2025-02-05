@@ -26,7 +26,7 @@ Hey there! I'm **Lehlohonolo Saohatse**, your friendly neighborhood code wizard 
 
 ## 🎓 Education
 - **National Senior Certificate**, South Africa  
-- **BSc in Computer Science & Electronics** (Graduating 2026)
+- **BSc in Computer Science & Electronics** (student)
 
 ## 🔮 Future Plans
 I’m always on the lookout for exciting API endpoints and opportunities to debug and deploy new tech stacks. Whether it's integrating with a new RESTful service, experimenting with GraphQL queries, or optimizing microservices architecture, I’m eager to explore and learn.
@@ -36,7 +36,7 @@ I’m open to collaborating on projects involving OAuth implementations, rate-li
 Let’s connect, build some robust endpoints, and see where the codebase takes us!
 ---
 
-📧 **Email**: lehlohonolosaohatse03@gmail.com  
+📧 **Email**: 🤡 
 🌐 **Portfolio**: http://ruth3r4rd1um104.me (Still Under Construction though) 🚀
 - **Other Links**
   - [x] https://hyperskill.org/profile/612232665 (Hyperskill Profile)
