@@ -1,44 +1,130 @@
-# Lehlohonolo Saohatse 👾
+<h1 align="center">Lehlohonolo Saohatse 🧠</h1>
 
-Hey there! I'm **Lehlohonolo Saohatse**, your friendly neighborhood code wizard 🧙‍♂️, currently leveling up as a **Computer Science and Electronics** student at **North-West University**. With a passion for breaking (and fixing) things, I’m on a mission to make an impact in the tech space (because, why not? 😎).
+<p align="center">
+  <b>BSc Computer Science & Electronics</b><br/>
+  Software Engineer · Embedded Systems Enthusiast · Data Scientist<br/>
+  North‑West University · South Africa
+</p>
 
-## 💻 Academic Background
-🎓 **BSc in Computer Science & Electronics** – North-West University  
-⚡ Always pushing for that extra credit, both in knowledge and experience.
+<p align="center">
+  <a href="https://linkedin.com/in/lehlohonolo-saohatse-ab6ab624b">
+    <img src="https://img.shields.io/badge/LinkedIn‑Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="http://ruth3r4rd1um104.me">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://message-ls.streamlit.app">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://hyperskill.org/profile/612232665">
+    <img src="https://img.shields.io/badge/Hyperskill-000000?style=flat-square&logo=hyperskill&logoColor=white"/>
+  </a>
+</p>
 
-## ⚡ Personal Qualities
-- 🎯 Laser-focused on system design, cybersecurity, and AI.
-- 🤖 A passion for innovating with technology and making things that matter.
-- 🌍 Dedicated to using tech for a meaningful impact on society. (Saving the world, one line of code at a time.)
-
-## 🛠️ Tech Stack & Skills
-- **Languages**: Python, Java, C++, MATLAB (and always adding more)
-- **Cybersecurity**: Certified in *Ethical Hacking Essentials* and *Cybersecurity for Businesses - The Fundamental Edition* by (EC-Council)
-- **Cloud Computing**: Yeah, I’m in the cloud (literally) ☁️
-- **Problem-Solving**: AKA debugging at 3AM 🔍
-- **Teamwork**: Can collaborate like a well-tuned API.
-
-## 🧠 Interests
-- 🏗️ **System Design & Development**  
-- 🛡️ **Cybersecurity & Ethical Hacking**  
-- 🤖 **Artificial Intelligence**  
-- 🤝 **Collaborations**: Let’s team up and build something epic.
-
-## 🎓 Education
-- **National Senior Certificate**, South Africa  
-- **BSc in Computer Science & Electronics** (student)
-
-## 🔮 Future Plans
-I’m always on the lookout for exciting API endpoints and opportunities to debug and deploy new tech stacks. Whether it's integrating with a new RESTful service, experimenting with GraphQL queries, or optimizing microservices architecture, I’m eager to explore and learn.
-
-I’m open to collaborating on projects involving OAuth implementations, rate-limiting strategies, or real-time data streaming with WebSockets. If you’re keen on discussing the latest in API design, serverless architectures, or the coolest SDKs and libraries, let’s sync up and geek out together.
-
-Let’s connect, build some robust endpoints, and see where the codebase takes us!
 ---
 
-📧 **Email**: https://message-ls.streamlit.app/  
-🌐 **Portfolio**: http://ruth3r4rd1um104.me (Still Under Construction though) 🚀
-- **Other Links**
-  - [x] https://hyperskill.org/profile/612232665 (Hyperskill Profile)
-  - [x] https://tinyurl.com/4xz63wmu (NWU NEW LMS Testing phase winners)
-  - [x] https://za.linkedin.com/in/lehlohonolo-saohatse-ab6ab624b (LinkedIn Profile)
+## 👋 Hello World!
+
+I'm **Lehlohonolo Saohatse**, a multidisciplinary technologist passionate about **software engineering**, **data science & analytics**, and bringing ideas to life.
+
+I thrive at the intersection of **hardware, software, people, and data**, and love solving problems using:
+
+- 🧠 Logic & Algorithms  
+- 🧰 Code & Circuits  
+- 🌐 Cloud & Data
+
+---
+
+## 🛠️ Tech Toolbox
+
+<div align="center">
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Assembly](https://img.shields.io/badge/Assembly-444444?style=flat-square&logo=gnu&logoColor=white)
+
+**Frameworks & Libraries**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+**Databases & Tools**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+
+**Embedded Systems**  
+C · C++ · Assembly · PCB Design · Microcontrollers  
+
+</div>
+
+---
+
+## 🧩 Projects Snapshot
+
+| Project                    | Domain               | Tech Stack                             |
+|---------------------------|----------------------|----------------------------------------|
+| `Food E-Commerce App`     | Full Stack           | Node.js · React · MongoDB · Express    |
+| `Blood Management System` | Full Stack           | React · PostgreSQL · Node.js · Express |
+| `Healthcare Chatbot`      | Artificial Intelligence - FOL   | Python                                 |
+| `Wine Quality - Advanced Regression`      | Data Science & Machine Learning    | Python · Pandas · Numpy · sklearn · seaborn |
+
+
+> Browse my repositories for detailed READMEs, screenshots, and code insights.
+
+---
+
+## 🏆 Certifications & Achievements
+
+- 📜 **Full Stack Development** – IT varsity (Jul 2025)  
+- 🌐 **IoT & Cloud Emerging Tech** – Yonsei University (Mar 2025)  
+- 💻 **Coding Summer School** – NITheCS & CHPC (Feb 2025)  
+- ⚙️ **Agile Project Management** – HP LIFE (Sep 2024)  
+- 📊 **Data Science & Analytics** – HP LIFE (Sep 2024)  
+- 🛡️ **Cybersecurity Awareness** – HP LIFE (Sep 2024)  
+- 🧠 **Ethical Hacker Essentials** – EC-Council (Feb 2024)  
+- ☁️ **Intro to Cloud Computing** – EC-Council (Jan 2024)  
+- 🚀 **Agile: Concise Intro** – EC-Council (Jan 2024)  
+- 🐛 **Android Bug Bounty Hunting** – EC-Council (Jan 2024)  
+- 🔌 **Cisco LABS Crash Course** – EC-Council (Jan 2024)  
+- 💽 **Cloud Computing DB Tech** – Alison (Jan 2024)  
+- 🔐 **Cybersecurity for Business** – EC-Council (Jan 2024)  
+- 🌑 **Dark Web, Anonymity & Crypto** – EC-Council (Jan 2024)  
+- 🐢 **Learn Python 3 w/ Turtle** – EC-Council (Jan 2024)  
+- 🧨 **SQL Injection Attacks** – EC-Council (Jan 2024)  
+- 🧠 NWU LMS Testing Winner  
+- 🧩 Hyperskill Advanced Problem Solver  
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lehlohonolo-Saohatse&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lehlohonolo-Saohatse&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+</div>
+
+---
+
+## 📬 Let's Connect
+
+I'm always open to collaborating on **tech for good**, solving interesting problems, or geeking out over clean API design and low-level optimizations.
+
+> 💬 Drop me a message. **Let’s build the future, one commit at a time.**
+
+<p align="center">
+  <a href="https://linkedin.com/in/lehlohonolo-saohatse-ab6ab624b">
+    <img src="https://img.shields.io/badge/LinkedIn‑Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="http://ruth3r4rd1um104.me">
+    <img src="https://img.shields.io/badge/Visit‑Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Tech+is+my+playground;Let's+build+something+great&center=true&width=600">
+</div>
