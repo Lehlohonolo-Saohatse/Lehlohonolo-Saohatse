@@ -25,7 +25,7 @@
 
 ## 👋 Hello World!
 
-I'm **Lehlohonolo Saohatse**, a multidisciplinary technologist passionate about **software engineering**, **data science & analytics**, and bringing ideas to life.
+I'm **Lehlohonolo Saohatse**, a multidisciplinary technologist passionate about **software engineering**, **data science/analytics**, and bringing ideas to life.
 
 I thrive at the intersection of **hardware, software, people, and data**, and love solving problems using:
 
