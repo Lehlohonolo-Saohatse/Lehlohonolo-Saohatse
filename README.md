@@ -23,15 +23,13 @@
 
 ---
 
-## 👋 Hello World!
+## 👋 Hello, I'm Lehlohonolo Saohatse
 
-I'm **Lehlohonolo Saohatse**, a multidisciplinary technologist passionate about **software engineering**, **data science/analytics**, and bringing ideas to life.
+🎓 A multidisciplinary technologist passionate about software engineering, data science, and building impactful solutions. I enjoy working where hardware meets software, where data meets decisions, and where ideas become systems. Whether it's writing clean code, analyzing patterns in data, or wiring up circuits, I thrive on solving real-world problems using:
 
-I thrive at the intersection of **hardware, software, people, and data**, and love solving problems using:
-
-- 🧠 Logic & Algorithms  
-- 🧰 Code & Circuits  
-- 🌐 Cloud & Data
+- 🧠 Logical thinking & algorithms
+- 🧰 Code & circuits
+- ☁️ Cloud infrastructure & data pipelines
 
 ---
 
