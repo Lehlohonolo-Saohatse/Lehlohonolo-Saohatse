@@ -78,7 +78,8 @@ C · C++ · Assembly · PCB Design · Microcontrollers
 
 - 📜 **Full Stack Development** – IT varsity (Jul 2025)  
 - 🌐 **IoT (Internet of Things) Wireless & Cloud Computing Emerging Technologies** – Yonsei University (Mar 2025)  
-- 💻 **Coding Summer School (Data Science and Machine Learning Bootcamp)** – NITheCS & CHPC (Feb 2025)  
+- 💻 **Coding Summer School (Data Science and Machine Learning Bootcamp)** – NITheCS & CHPC (Feb 2025)
+- 🔐 **Network Security Management** - Chongqing Polytechnic University of Electronic Technology (Dec 2024)
 - ⚙️ **Agile Project Management** – HP LIFE (Sep 2024)  
 - 📊 **Data Science & Analytics** – HP LIFE (Sep 2024)  
 - 🛡️ **Cybersecurity Awareness** – HP LIFE (Sep 2024)  
