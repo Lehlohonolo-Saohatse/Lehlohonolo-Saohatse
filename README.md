@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>BSc Computer Science & Electronics</b><br/>
-  Software Engineer · Embedded Systems Engineer · Data Scientist<br/>
+  Software Engineer · Embedded Systems Engineer · Network Engineer · Data Scientist<br/>
   North‑West University · South Africa
 </p>
 
