@@ -82,7 +82,7 @@ C · C++ · Assembly · PCB Design · Microcontrollers
 ---
 
 ## 🏆 Certifications & Achievements
-
+- ⚙️ **Computer Networking Basics for Desktop Support Technicians** - UDEMY (Sep 2025)
 - 📜 **Full Stack Development** – IT varsity (Jul 2025)  
 - 🌐 **IoT (Internet of Things) Wireless & Cloud Computing Emerging Technologies** – Yonsei University (Mar 2025)  
 - 💻 **Coding Summer School (Data Science and Machine Learning Bootcamp)** – NITheCS & CHPC (Feb 2025)
