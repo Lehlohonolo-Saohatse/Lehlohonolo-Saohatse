@@ -117,11 +117,19 @@ Explore my latest work, organized by expertise. Each project showcases real-worl
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lehlohonolo-Saohatse&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lehlohonolo-Saohatse&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lehlohonolo-Saohatse&theme=tokyonight" width="100%" alt="GitHub Streak" />
+
+  <!-- Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Lehlohonolo-Saohatse&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="49%" alt="GitHub Stats" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lehlohonolo-Saohatse&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages" />
+
+  <br/>
+
+
+
 </div>
+
 
 ---
 
