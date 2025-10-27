@@ -27,7 +27,7 @@
 
 <div align="center">
 
-🎓 A multidisciplinary technologist passionate about software engineering, embedded systems, networking, and data science; crafting impactful solutions that bridge hardware, connectivity, and intelligence. I thrive at the intersections where code powers circuits, networks secure flows, data fuels decisions, and ideas scale into resilient systems. From architecting full-stack apps and optimizing network topologies to analyzing datasets and prototyping embedded devices, I tackle real-world challenges with:
+🎓 A multidisciplinary technologist passionate about software engineering, embedded systems, networking, and data science; crafting impactful solutions that bridge hardware, connectivity, and intelligence. I thrive at the intersections where code powers circuits, networks secure flows, data fuels decisions, and ideas scale into resilient systems. From architecting full-stack apps and optimizing network topologies to analyzing datasets and prototyping embedded devices, I tackle real-world challenges with the following
 
 ![Logical Thinking](https://img.shields.io/badge/Logical_Thinking-%F0%9F%A7%A0-brightgreen?style=flat&logo=brain&logoColor=white)
 ![Code & Circuits](https://img.shields.io/badge/Code_&_Circuits-%F0%9F%A7%B0-blue?style=flat&logo=code&logoColor=white)
