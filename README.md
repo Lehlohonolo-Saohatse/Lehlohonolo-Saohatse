@@ -23,8 +23,6 @@
 
 ---
 
-
-
 🎓 A multidisciplinary technologist passionate about software engineering, data science, and building impactful solutions. I enjoy working where hardware meets software, where data meets decisions, and where ideas become systems. Whether it's writing clean code, analyzing patterns in data, or wiring up circuits, I thrive on solving real-world problems using:
 
 - 🧠 Logical thinking & algorithms
@@ -67,17 +65,42 @@ C · C++ · Assembly · PCB Design · Microcontrollers
 
 ---
 
-## 🧩 Projects Snapshot
+## 🧩 Featured Projects
 
-| Project                    | Domain               | Tech Stack                             |
-|---------------------------|----------------------|----------------------------------------|
-| `Food E-Commerce App`     | Full Stack           | Node.js · React · MongoDB · Express    |
-| `Blood Management System` | Full Stack           | React · PostgreSQL · Node.js · Express |
-| `Healthcare Chatbot`      | Artificial Intelligence - FOL   | Python                                 |
-| `Wine Quality - Advanced Regression`      | Data Science & Machine Learning    | Python · Pandas · Numpy · sklearn · seaborn |
+<div align="center">
+  <img src="https://img.shields.io/badge/Projects-Modern%20Stack-blueviolet?style=flat-square&logo=git&logoColor=white" alt="Projects Badge"/>
+</div>
+
+Explore my latest work, organized by expertise. Each project showcases real-world applications with clean code, scalable architecture, and innovative problem-solving. Dive into the repos for live demos, architecture diagrams, and contribution guides.
+
+### 🌐 Network Engineer
+| Project | Description | Tech Stack | Repo |
+|---------|-------------|------------|------|
+| **[CMPG 325 Mini Networking Project 2025](https://github.com/Lehlohonolo-Saohatse/CMPG325-Mini-Networking-Project-2025)** | Simulated enterprise network with VLAN segmentation, IPv6 migration, and security configs in a multi-site setup. | Cisco Packet Tracer · IPv6/IPv4 · VLANs · Cisco IOS | [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat&logo=github)](https://github.com/Lehlohonolo-Saohatse/CMPG325-Mini-Networking-Project-2025) |
+
+### 🔌 Embedded Systems Engineer
+| Project | Description | Tech Stack | Repo |
+|---------|-------------|------------|------|
+| **[Microcontroller Systems Projects](https://github.com/Lehlohonolo-Saohatse/microcontroller-systems-projects)** | Hands-on labs building IoT prototypes with LED controls, sensor integrations, and assembly debugging. | Assembly · PIC16F84 · MPLAB IDE · EasyPIC v7 | [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat&logo=github)](https://github.com/Lehlohonolo-Saohatse/microcontroller-systems-projects) |
+
+### 📊 Data Scientist
+| Project | Description | Tech Stack | Repo |
+|---------|-------------|------------|------|
+| **[Data Analytics Portfolio](https://github.com/Lehlohonolo-Saohatse/data-analytics-portfolio)** | Curated analyses from sales forecasting to customer segmentation, with interactive dashboards. | Python · Pandas · Tableau · SQL · Jupyter | [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat&logo=github)](https://github.com/Lehlohonolo-Saohatse/data-analytics-portfolio) |
+| **[Coding Summer School Projects](https://github.com/Lehlohonolo-Saohatse/coding_summer_school/tree/main/Coding%20Summer%20School)** | Bootcamp deliverables: ML models for predictive analytics and data pipelines for real datasets. | Python · Scikit-learn · Matplotlib · NumPy | [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat&logo=github)](https://github.com/Lehlohonolo-Saohatse/coding_summer_school) |
+| **[Wine Quality - Advanced Regression](https://github.com/Lehlohonolo-Saohatse/wine-quality-advanced-regression)** | ML pipeline optimizing wine classification with ensemble methods and hyperparameter tuning. | Python · Scikit-learn · Pandas · Seaborn | [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat&logo=github)](https://github.com/Lehlohonolo-Saohatse/wine-quality-advanced-regression) |
+| **[Healthcare Chatbot](https://github.com/Lehlohonolo-Saohatse/healthcare-chatbot)** | Rule-based AI assistant for symptom triage using FOL inference engine. | Python · NLTK · Prolog Integration | [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat&logo=github)](https://github.com/Lehlohonolo-Saohatse/healthcare-chatbot) |
+
+### 💻 Software Engineer
+| Project | Description | Tech Stack | Repo |
+|---------|-------------|------------|------|
+| **[Food E-Commerce App](https://github.com/Lehlohonolo-Saohatse/food-e-commerce-app)** | Full-stack app for seamless food ordering with real-time inventory and payment integration. | Node.js · React · MongoDB · Stripe API | [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat&logo=github)](https://github.com/Lehlohonolo-Saohatse/food-e-commerce-app) |
+| **[Blood Management System](https://github.com/Lehlohonolo-Saohatse/blood-management-system)** | Inventory tracker for blood banks with donor matching and expiry alerts. | React · Node.js · PostgreSQL · Socket.io | [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat&logo=github)](https://github.com/Lehlohonolo-Saohatse/blood-management-system) |
+| **[eVote System](https://github.com/Lehlohonolo-Saohatse/eVote-System)** | A secure electronic voting platform ensuring tamper-proof elections and user privacy. | Svelte · Spring Boot · PostgreSQL · JWT Auth | [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat&logo=github)](https://github.com/Lehlohonolo-Saohatse/eVote-System) |
+| **[Secure File Management System](https://github.com/Lehlohonolo-Saohatse/Secure-File-Management-System)** *(Design Phase)* | Cloud-native system for digitizing and securing police case files with encryption and audit trails for SAPS compliance. | Next.js · Spring Boot · AWS S3 · PostgreSQL · Encryption Libs | [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat&logo=github)](https://github.com/Lehlohonolo-Saohatse/Secure-File-Management-System) |
 
 
-> Browse my repositories for detailed READMEs, screenshots, and code insights.
+> 🔍 Browse all [repositories](https://github.com/Lehlohonolo-Saohatse?tab=repositories) for more innovations in AI, cloud, and hardware-software fusion.
 
 ---
 
