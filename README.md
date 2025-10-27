@@ -73,7 +73,7 @@ Explore my latest work, organized by expertise. Each project showcases real-worl
 | Project | Description | Tech Stack | Repo |
 |---------|-------------|------------|------|
 | **[Microcontroller Systems Projects](https://github.com/Lehlohonolo-Saohatse/microcontroller-systems-projects)** | Hands-on labs building IoT prototypes with LED controls, sensor integrations, and assembly debugging. | Assembly · PIC16F84 · MPLAB IDE · EasyPIC v7 | [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat&logo=github)](https://github.com/Lehlohonolo-Saohatse/microcontroller-systems-projects) |
-| **[Signals and Systems Projects](https://github.com/Lehlohonolo-Saohatse/Signals-and-Systems-Projects)** | Labs from ELYM 316 – Signals and Systems module, featuring MATLAB simulations of motion under gravity, probability distributions, FFT signal analysis, radioactive decay, and LTI system responses. | MATLAB R2023a · Git | [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat&logo=github)](https://github.com/Lehlohonolo-Saohatse/Signals-and-Systems-Projects)
+| **[Signals and Systems Projects](https://github.com/Lehlohonolo-Saohatse/Signals-and-Systems-Projects)** | Labs from Signals and Systems module, featuring MATLAB simulations of motion under gravity, probability distributions, FFT signal analysis, radioactive decay, and LTI system responses. | MATLAB R2023a · Git | [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat&logo=github)](https://github.com/Lehlohonolo-Saohatse/Signals-and-Systems-Projects)
 
 ### 📊 Data Scientist
 | Project | Description | Tech Stack | Repo |
