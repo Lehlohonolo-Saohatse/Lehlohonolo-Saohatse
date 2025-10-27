@@ -1,8 +1,6 @@
 <h1 align="center">Lehlohonolo Saohatse 🧠</h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Multidisciplinary%20Technologist;%20Bridging%20Hardware%20%26%20Software;%20Data%20to%20Decisions;%20Ideas%20to%20Impact&center=true&width=800&height=100&pause=1000" alt="Typing SVG" />
-</div>
+
 
 <p align="center">
   <b>BSc Computer Science & Electronics</b><br/>
@@ -29,11 +27,16 @@
 
 <div align="center">
 
-🎓 A multidisciplinary technologist passionate about software engineering, data science, and building impactful solutions. I thrive at the intersection of hardware and software, turning data into decisions and ideas into scalable systems. From crafting clean code to decoding data patterns and soldering circuits, I solve real-world challenges with:
+🎓 A multidisciplinary technologist passionate about software engineering, embedded systems, networking, and data science; crafting impactful solutions that bridge hardware, connectivity, and intelligence. I thrive at the intersections where code powers circuits, networks secure flows, data fuels decisions, and ideas scale into resilient systems. From architecting full-stack apps and optimizing network topologies to analyzing datasets and prototyping embedded devices, I tackle real-world challenges with:
 
-![Logical Thinking](https://img.shields.io/badge/Logical_Thinking-%F0%9F%A7%A0-brightgreen?style=flat)
-![Code & Circuits](https://img.shields.io/badge/Code_&_Circuits-%F0%9F%A7%B0-blue?style=flat)
-![Cloud Infrastructure](https://img.shields.io/badge/Cloud_Infrastructure_%26_Data_Pipelines-%E2%98%81%EF%B8%8F-0A66C2?style=flat&logo=googlecloud&logoColor=white)
+![Logical Thinking](https://img.shields.io/badge/Logical_Thinking-%F0%9F%A7%A0-brightgreen?style=flat&logo=brain&logoColor=white)
+![Code & Circuits](https://img.shields.io/badge/Code_&_Circuits-%F0%9F%A7%B0-blue?style=flat&logo=code&logoColor=white)
+![Networking & Security](https://img.shields.io/badge/Networking_%26_Security-%F0%9F%93%A5-purple?style=flat&logo=network&logoColor=white)
+![Cloud & Data Pipelines](https://img.shields.io/badge/Cloud_%26_Data_%26_Pipelines-%E2%98%81%EF%B8%8F-0A66C2?style=flat&logo=googlecloud&logoColor=white)
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Multidisciplinary%20Technologist;%20Bridging%20Hardware%20%26%20Software;%20Data%20to%20Decisions;%20Ideas%20to%20Impact&center=true&width=800&height=100&pause=1000" alt="Typing SVG" />
 </div>
 
 ---
@@ -51,7 +54,7 @@
 
 </div>
 
-> **Proficient in full-stack development, ML pipelines, and low-level hardware—always learning the next big thing.**
+> **Proficient in full-stack development, ML pipelines, and low-level hardware; and always learning the next big thing.**
 
 ---
 
