@@ -35,10 +35,6 @@
 ![Cloud & Data Pipelines](https://img.shields.io/badge/Cloud_%26_Data_%26_Pipelines-%E2%98%81%EF%B8%8F-0A66C2?style=flat&logo=googlecloud&logoColor=white)
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Multidisciplinary%20Technologist;%20Bridging%20Hardware%20%26%20Software;%20Data%20to%20Decisions;%20Ideas%20to%20Impact&center=true&width=800&height=100&pause=1000" alt="Typing SVG" />
-</div>
-
 ---
 
 ## 🛠️ Tech Toolbox
@@ -59,7 +55,9 @@
 ---
 
 ## 🧩 Featured Projects
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Multidisciplinary%20Technologist;%20Bridging%20Hardware%20%26%20Software;%20Data%20to%20Decisions;%20Ideas%20to%20Impact&center=true&width=800&height=100&pause=1000" alt="Typing SVG" />
+</div>
 <div align="center">
   <img src="https://img.shields.io/badge/Projects-Modern%20Stack-blueviolet?style=for-the-badge&logo=git&logoColor=white" alt="Projects Badge"/>
 </div>
@@ -147,6 +145,7 @@ I'm always open to collaborating on **tech for good**, solving interesting probl
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Tech+is+my+playground;Let's+build+something+great&center=true&width=600">
 </div>
+
 
 <div align="center">
   <sub><em>© 2025 Lehlohonolo Saohatse. Built with ❤️ using GitHub Pages.</em></sub>
