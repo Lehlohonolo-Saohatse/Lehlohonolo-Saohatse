@@ -1,14 +1,18 @@
 <h1 align="center">Lehlohonolo Saohatse 🧠</h1>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Multidisciplinary%20Technologist;%20Bridging%20Hardware%20%26%20Software;%20Data%20to%20Decisions;%20Ideas%20to%20Impact&center=true&width=800&height=100&pause=1000" alt="Typing SVG" />
+</div>
+
 <p align="center">
   <b>BSc Computer Science & Electronics</b><br/>
-  Software Engineer · Embedded Systems Engineer · Network Engineer · Data Scientist<br/>
+  <em>Software Engineer · Embedded Systems Engineer · Network Engineer · Data Scientist</em><br/>
   North‑West University · South Africa
 </p>
 
-<p align="center">
+<div align="center">
   <a href="https://linkedin.com/in/lehlohonolo-saohatse-ab6ab624b">
-    <img src="https://img.shields.io/badge/LinkedIn‑Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="http://ruth3r4rd1um104.me">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white"/>
@@ -19,15 +23,18 @@
   <a href="https://hyperskill.org/profile/612232665">
     <img src="https://img.shields.io/badge/Hyperskill-000000?style=flat-square&logo=hyperskill&logoColor=white"/>
   </a>
-</p>
+</div>
 
 ---
 
-🎓 A multidisciplinary technologist passionate about software engineering, data science, and building impactful solutions. I enjoy working where hardware meets software, where data meets decisions, and where ideas become systems. Whether it's writing clean code, analyzing patterns in data, or wiring up circuits, I thrive on solving real-world problems using:
+<div align="center">
 
-- 🧠 Logical thinking & algorithms
-- 🧰 Code & circuits
-- ☁️ Cloud infrastructure & data pipelines
+🎓 A multidisciplinary technologist passionate about software engineering, data science, and building impactful solutions. I thrive at the intersection of hardware and software, turning data into decisions and ideas into scalable systems. From crafting clean code to decoding data patterns and soldering circuits, I solve real-world challenges with:
+
+![Logical Thinking](https://img.shields.io/badge/Logical_Thinking-%F0%9F%A7%A0-brightgreen?style=flat)
+![Code & Circuits](https://img.shields.io/badge/Code_&_Circuits-%F0%9F%A7%B0-blue?style=flat)
+![Cloud Infrastructure](https://img.shields.io/badge/Cloud_Infrastructure_%26_Data_Pipelines-%E2%98%81%EF%B8%8F-0A66C2?style=flat&logo=googlecloud&logoColor=white)
+</div>
 
 ---
 
@@ -35,43 +42,26 @@
 
 <div align="center">
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Assembly](https://img.shields.io/badge/Assembly-444444?style=flat-square&logo=gnu&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Frameworks & Libraries**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-**Databases & Tools**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-
-**Embedded Systems**  
-C · C++ · Assembly · PCB Design · Microcontrollers  
+| Category | Tech |
+|----------|------|
+| **🌐 Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Assembly](https://img.shields.io/badge/Assembly-444444?style=flat&logo=gnu&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
+| **⚙️ Frameworks & Libraries** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) |
+| **🗄️ Databases & Tools** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white) |
+| **🔌 Embedded Systems** | C · C++ · Assembly · PCB Design · Microcontrollers · PIC16F84 · MPLAB IDE |
 
 </div>
+
+> **Proficient in full-stack development, ML pipelines, and low-level hardware—always learning the next big thing.**
 
 ---
 
 ## 🧩 Featured Projects
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Projects-Modern%20Stack-blueviolet?style=flat-square&logo=git&logoColor=white" alt="Projects Badge"/>
+  <img src="https://img.shields.io/badge/Projects-Modern%20Stack-blueviolet?style=for-the-badge&logo=git&logoColor=white" alt="Projects Badge"/>
 </div>
 
-Explore my latest work, organized by expertise. Each project showcases real-world applications with clean code, scalable architecture, and innovative problem-solving. Dive into the repos for live demos, architecture diagrams, and contribution guides.
+Explore my latest work, organized by expertise. Each project showcases real-world applications with clean code, scalable architecture, and innovative problem-solving. Dive into the repos for live demos, architecture diagrams, and detailed insights.
 
 ### 🌐 Network Engineer
 | Project | Description | Tech Stack | Repo |
@@ -99,32 +89,27 @@ Explore my latest work, organized by expertise. Each project showcases real-worl
 | **[eVote System](https://github.com/Lehlohonolo-Saohatse/eVote-System)** | A secure electronic voting platform ensuring tamper-proof elections and user privacy. | Svelte · Spring Boot · PostgreSQL · JWT Auth | [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat&logo=github)](https://github.com/Lehlohonolo-Saohatse/eVote-System) |
 | **[Secure File Management System](https://github.com/Lehlohonolo-Saohatse/Secure-File-Management-System)** *(Design Phase)* | Cloud-native system for digitizing and securing police case files with encryption and audit trails for SAPS compliance. | Next.js · Spring Boot · AWS S3 · PostgreSQL · Encryption Libs | [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat&logo=github)](https://github.com/Lehlohonolo-Saohatse/Secure-File-Management-System) |
 
-
 > 🔍 Browse all [repositories](https://github.com/Lehlohonolo-Saohatse?tab=repositories) for more innovations in AI, cloud, and hardware-software fusion.
 
 ---
 
 ## 🏆 Certifications & Achievements
-- ⚙️ **Computer Networking Basics for Desktop Support Technicians** - UDEMY (Sep 2025)
-- 📜 **Full Stack Development** – IT varsity (Jul 2025)  
-- 🌐 **IoT (Internet of Things) Wireless & Cloud Computing Emerging Technologies** – Yonsei University (Mar 2025)  
-- 💻 **Coding Summer School (Data Science and Machine Learning Bootcamp)** – NITheCS & CHPC (Feb 2025)
-- 🔐 **Network Security Management** - Chongqing Polytechnic University of Electronic Technology (Dec 2024)
-- ⚙️ **Agile Project Management** – HP LIFE (Sep 2024)  
-- 📊 **Data Science & Analytics** – HP LIFE (Sep 2024)  
-- 🛡️ **Cybersecurity Awareness** – HP LIFE (Sep 2024)  
-- 🧠 **Ethical Hacker Essentials** – EC-Council (Feb 2024)  
-- ☁️ **Intro to Cloud Computing** – EC-Council (Jan 2024)  
-- 🚀 **Agile: Concise Intro** – EC-Council (Jan 2024)  
-- 🐛 **Android Bug Bounty Hunting** – EC-Council (Jan 2024)  
-- 🔌 **Cisco LABS Crash Course** – EC-Council (Jan 2024)  
-- 💽 **Cloud Computing DB Tech** – Alison (Jan 2024)  
-- 🔐 **Cybersecurity for Business** – EC-Council (Jan 2024)  
-- 🌑 **Dark Web, Anonymity & Crypto** – EC-Council (Jan 2024)  
-- 🐢 **Learn Python 3 w/ Turtle** – EC-Council (Jan 2024)  
-- 🧨 **SQL Injection Attacks** – EC-Council (Jan 2024)  
-- 🧠 NWU LMS Testing Winner  
-- 🧩 Hyperskill Advanced Problem Solver  
+
+<div align="center">
+
+| Category | Achievement | Issued By | Date |
+|----------|-------------|-----------|------|
+| **🌐 Networking & IoT** | Computer Networking Basics for Desktop Support Technicians<br>IoT (Internet of Things) Wireless & Cloud Computing Emerging Technologies<br>Network Security Management | UDEMY<br>Yonsei University<br>Chongqing Polytechnic University of Electronic Technology | Sep 2025<br>Mar 2025<br>Dec 2024 |
+| **💻 Development & Agile** | Full Stack Development<br>Agile Project Management<br>Agile: Concise Intro | IT varsity<br>HP LIFE<br>EC-Council | Jul 2025<br>Sep 2024<br>Jan 2024 |
+| **📊 Data Science & ML** | Coding Summer School (Data Science and Machine Learning Bootcamp)<br>Data Science & Analytics | NITheCS & CHPC<br>HP LIFE | Feb 2025<br>Sep 2024 |
+| **🔐 Cybersecurity** | Ethical Hacker Essentials<br>Cybersecurity Awareness<br>Android Bug Bounty Hunting<br>SQL Injection Attacks<br>Cybersecurity for Business<br>Dark Web, Anonymity & Crypto | EC-Council<br>HP LIFE<br>EC-Council<br>EC-Council<br>EC-Council<br>EC-Council | Feb 2024<br>Sep 2024<br>Jan 2024<br>Jan 2024<br>Jan 2024<br>Jan 2024 |
+| **☁️ Cloud & Tools** | Intro to Cloud Computing<br>Cisco LABS Crash Course<br>Cloud Computing DB Tech | EC-Council<br>EC-Council<br>Alison | Jan 2024<br>Jan 2024<br>Jan 2024 |
+| **🐍 Programming Basics** | Learn Python 3 w/ Turtle | EC-Council | Jan 2024 |
+| **🏆 Honors** | NWU LMS Testing Winner<br>Hyperskill Advanced Problem Solver | North-West University<br>Hyperskill | -<br>- |
+
+</div>
+
+> **🚀 Always upskilling—check back for updates!**
 
 ---
 
@@ -133,6 +118,8 @@ Explore my latest work, organized by expertise. Each project showcases real-worl
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lehlohonolo-Saohatse&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="49%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lehlohonolo-Saohatse&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lehlohonolo-Saohatse&theme=tokyonight" width="100%" alt="GitHub Streak" />
 </div>
 
 ---
@@ -141,19 +128,23 @@ Explore my latest work, organized by expertise. Each project showcases real-worl
 
 I'm always open to collaborating on **tech for good**, solving interesting problems, or geeking out over clean API design and low-level optimizations.
 
-> 💬 Drop me a message. **Let’s build the future, one commit at a time.**
+> 💬 **Drop me a message. Let’s build the future, one commit at a time.**
 
-<p align="center">
+<div align="center">
   <a href="https://linkedin.com/in/lehlohonolo-saohatse-ab6ab624b">
-    <img src="https://img.shields.io/badge/LinkedIn‑Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="http://ruth3r4rd1um104.me">
-    <img src="https://img.shields.io/badge/Visit‑Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visit-Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
-</p>
+</div>
 
 ---
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Tech+is+my+playground;Let's+build+something+great&center=true&width=600">
+</div>
+
+<div align="center">
+  <sub><em>© 2025 Lehlohonolo Saohatse. Built with ❤️ using GitHub Pages.</em></sub>
 </div>
