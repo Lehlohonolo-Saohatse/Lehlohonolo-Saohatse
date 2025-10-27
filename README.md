@@ -112,7 +112,7 @@ Explore my latest work, organized by expertise. Each project showcases real-worl
 
 </div>
 
-> **🚀 Always upskilling—check back for updates!**
+> **🚀 Always upskilling; check back for updates!**
 
 ---
 
