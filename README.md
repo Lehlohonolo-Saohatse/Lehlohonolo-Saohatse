@@ -101,7 +101,7 @@ Explore my latest work, organized by expertise. Each project showcases real-worl
 
 | Category | Achievement | Issued By | Date |
 |----------|-------------|-----------|------|
-| **🌐 Networking & IoT** | Computer Networking Basics for Desktop Support Technicians<br>IoT (Internet of Things) Wireless & Cloud Computing Emerging Technologies<br>Network Security Management | UDEMY<br>Yonsei University<br>Chongqing Polytechnic University of Electronic Technology | Sep 2025<br>Mar 2025<br>Dec 2024 |
+| 🌐 Networking & IoT | Computer Networking Basics for Desktop Support Technicians<br>IoT (Internet of Things) Wireless & Cloud Computing Emerging Technologies<br>Network Security Management<br>IT & Technical Support Guide to Helpdesk, Desktop & Servers | UDEMY<br>Yonsei University<br>Chongqing Polytechnic University of Electronic Technology<br>UDEMY | Sep 2025<br>Mar 2025<br>Dec 2024<br>Oct 2025 |
 | **💻 Development & Agile** | Full Stack Development<br>Agile Project Management<br>Agile: Concise Intro | IT varsity<br>HP LIFE<br>EC-Council | Jul 2025<br>Sep 2024<br>Jan 2024 |
 | **📊 Data Science & ML** | Coding Summer School (Data Science and Machine Learning Bootcamp)<br>Data Science & Analytics | NITheCS & CHPC<br>HP LIFE | Feb 2025<br>Sep 2024 |
 | **🔐 Cybersecurity** | Ethical Hacker Essentials<br>Cybersecurity Awareness<br>Android Bug Bounty Hunting<br>SQL Injection Attacks<br>Cybersecurity for Business<br>Dark Web, Anonymity & Crypto | EC-Council<br>HP LIFE<br>EC-Council<br>EC-Council<br>EC-Council<br>EC-Council | Feb 2024<br>Sep 2024<br>Jan 2024<br>Jan 2024<br>Jan 2024<br>Jan 2024 |
