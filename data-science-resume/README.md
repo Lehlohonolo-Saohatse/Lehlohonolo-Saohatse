@@ -81,4 +81,4 @@ Completed multiple AI-focused practical assessments covering clustering, machine
 ## Additional Information
 
 - South African Citizen
-- Willing to relocate to Western Cape
+- Willing to relocate
