@@ -120,20 +120,20 @@ Explore my latest work, organized by expertise. Each project showcases real-worl
 > **🚀 Always upskilling; check back for updates!**
 
 ---
-
 ## 🧠 Technologies Used (Live GitHub Stats)
 
-<div align="center">
-  <img src="./metrics.svg" alt="Live GitHub Tech Stats" width="100%">
-</div>
+<p align="center">
+  <img 
+    src="https://github.com/Lehlohonolo-Saohatse/.github/blob/main/github-metrics.svg" 
+    alt="Live GitHub Tech Stats" 
+    width="100%" 
+    style="border-radius: 20px; box-shadow: 0px 4px 20px rgba(0,0,0,0.25);" 
+  />
+</p>
 
 <img 
-  src="https://github-readme-stats-rickstaa.vercel.app/api?username=Lehlohonolo-Saohatse&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" 
-  width="49%" 
-  alt="GitHub Stats"
-/> <img 
   src="https://github-readme-activity-graph.vercel.app/graph?username=Lehlohonolo-Saohatse&theme=tokyo-night&hide_border=true" 
-  width="49%" 
+  width="100%" 
 />
 
 
