@@ -120,22 +120,14 @@ Explore my latest work, organized by expertise. Each project showcases real-worl
 > **🚀 Always upskilling; check back for updates!**
 
 ---
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-  <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Lehlohonolo-Saohatse&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="49%" hight="49%" alt="GitHub Stats" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lehlohonolo-Saohatse&layout=compact&theme=tokyonight&hide_border=true" width="49%" hight="49%" alt="Top Languages" />
-
-  <br/>
-
-
-
-</div>
+<img 
+  src="https://github-readme-stats-rickstaa.vercel.app/api?username=Lehlohonolo-Saohatse&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" 
+  width="49%" 
+  alt="GitHub Stats"
+/> <img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Lehlohonolo-Saohatse&theme=tokyo-night&hide_border=true" 
+  width="49%" 
+/>
 
 
 ---
