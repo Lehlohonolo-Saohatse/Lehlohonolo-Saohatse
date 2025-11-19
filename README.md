@@ -137,6 +137,14 @@ Explore my latest work, organized by expertise. Each project showcases real-worl
 />
 
 
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lehlohonolo-Saohatse&layout=compact&theme=tokyonight&hide_border=true" 
+    width="100%" 
+    alt="Top Languages"
+  />
+
+
 ---
 
 ## 📬 Let's Connect
