@@ -70,6 +70,12 @@
 
 Explore my latest work, organized by expertise. Each project showcases real-world applications with clean code, scalable architecture, and innovative problem-solving. Dive into the repos for live demos, architecture diagrams, and detailed insights.
 
+### 🌐 AI Engineer
+| Project | Description | Tech Stack | Repo |
+|---------|-------------|------------|------|
+| **[Master ML, DL & AI Agents – TensorFlow + PyTorch](https://github.com/Lehlohonolo-Saohatse/master-ml-dl-ai-agents-tensorflow-pytorch-projects)** | Hands-on portfolio for AI Engineer Associate Certificate: advanced feature engineering, classical ML (trees/ensembles/XGBoost), neural nets from scratch (NumPy), TensorFlow/Keras & PyTorch (CNNs, custom loops, autograd), foundational AI agents. Ongoing – weekly notebooks, visualizations, mini-projects (churn, image classification, etc.). | Python, NumPy, Pandas, scikit-learn, XGBoost, TensorFlow 2.x/Keras, PyTorch 2.x, Matplotlib/Seaborn, Jupyter | [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat&logo=github)](https://github.com/Lehlohonolo-Saohatse/master-ml-dl-ai-agents-tensorflow-pytorch-projects) |
+
+
 ### 🌐 Network Engineer
 | Project | Description | Tech Stack | Repo |
 |---------|-------------|------------|------|
