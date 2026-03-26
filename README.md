@@ -18,7 +18,7 @@
   <a href="https://linkedin.com/in/lehlohonolo-saohatse-ab6ab624b">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="http://ruth3r4rd1um104.me">
+  <a href="http://lehlohonolo-saohatse-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://message-ls.streamlit.app">
