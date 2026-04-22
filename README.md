@@ -3,8 +3,8 @@
 
 
 <p align="center">
-  <b>BSc Computer Science & Electronics</b><br/>
-  <b>BSc Honours in Data Science</b><br/>
+  <b>BSc Computer Science & Electronics | BSc Honours in Data Science</b><br/>
+  
   <em>
     <a href="https://github.com/Lehlohonolo-Saohatse/Lehlohonolo-Saohatse/blob/main/data-science-resume/README.md" target="_blank">Data Scientist</a> · 
     <a href="https://github.com/Lehlohonolo-Saohatse/Lehlohonolo-Saohatse/blob/main/software-engineer-resume/README.md" target="_blank">Software Engineer</a> · 
