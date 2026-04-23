@@ -34,12 +34,17 @@
 
 <div align="center">
 
-🎓 A multidisciplinary technologist passionate about software engineering, embedded systems, networking, and data science; crafting impactful solutions that bridge hardware, connectivity, and intelligence. I thrive at the intersections where code powers circuits, networks secure flows, data fuels decisions, and ideas scale into resilient systems. From architecting full-stack apps and optimizing network topologies to analyzing datasets and prototyping embedded devices, I tackle real-world challenges with the following
+I build scalable data systems that transform raw data into actionable intelligence, from ETL pipelines and analytics platforms to machine learning models and NLP applications. With my background in Computer Science, Electronics, and Honours-level Data Science, I bring a systems-driven approach to solving real-world problems, from low-level architecture to high-level business insights.
 
-![Logical Thinking](https://img.shields.io/badge/Logical_Thinking-%F0%9F%A7%A0-brightgreen?style=flat&logo=brain&logoColor=white)
-![Code & Circuits](https://img.shields.io/badge/Code_&_Circuits-%F0%9F%A7%B0-blue?style=flat&logo=code&logoColor=white)
-![Networking & Security](https://img.shields.io/badge/Networking_%26_Security-%F0%9F%93%A5-purple?style=flat&logo=network&logoColor=white)
-![Cloud & Data Pipelines](https://img.shields.io/badge/Cloud_%26_Data_%26_Pipelines-%E2%98%81%EF%B8%8F-0A66C2?style=flat&logo=googlecloud&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Data%20Science-3776AB?style=flat\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Analytics-003B57?style=flat\&logo=postgresql\&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-Big%20Data-E25A1C?style=flat\&logo=apachespark\&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Scikit--Learn-F7931E?style=flat\&logo=scikitlearn\&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure-0A66C2?style=flat\&logo=amazonaws\&logoColor=white)
+![Data Pipelines](https://img.shields.io/badge/Data_Pipelines-ETL%20%7C%20ELT-6A5ACD?style=flat)
+![NLP](https://img.shields.io/badge/NLP-Text%20Processing-8A2BE2?style=flat)
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-FF6F00?style=flat\&logo=docker\&logoColor=white)
+
 </div>
 
 ---
