@@ -7,9 +7,9 @@
   
   <em>
     <a href="https://github.com/Lehlohonolo-Saohatse/Lehlohonolo-Saohatse/blob/main/data-science-resume/README.md" target="_blank">Data Scientist</a> · 
-    <a href="https://github.com/Lehlohonolo-Saohatse/Lehlohonolo-Saohatse/blob/main/software-engineer-resume/README.md" target="_blank">Software Engineer</a> · 
-    <a href="https://github.com/Lehlohonolo-Saohatse/Lehlohonolo-Saohatse/blob/main/embedded-systems-engineer-resume/README.md" target="_blank">Embedded Systems Engineer</a> · 
-    <a href="https://github.com/Lehlohonolo-Saohatse/Lehlohonolo-Saohatse/blob/main/network-engineer-resume/README.md" target="_blank">Network Engineer</a>
+    <a href="https://github.com/Lehlohonolo-Saohatse/Lehlohonolo-Saohatse/blob/main/software-engineer-resume/README.md" target="_blank">Data Engineer</a> · 
+    <a href="https://github.com/Lehlohonolo-Saohatse/Lehlohonolo-Saohatse/blob/main/embedded-systems-engineer-resume/README.md" target="_blank">Natural Language Processing (NLP) Engineer</a> · 
+    <a href="https://github.com/Lehlohonolo-Saohatse/Lehlohonolo-Saohatse/blob/main/network-engineer-resume/README.md" target="_blank">AI/ML Engineer</a>
   </em><br/>
   Johannesburg · South Africa
 </p>
