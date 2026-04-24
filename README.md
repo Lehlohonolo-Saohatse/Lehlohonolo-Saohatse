@@ -143,7 +143,7 @@ I'm always open to collaborating on **tech for good**, solving interesting probl
   <a href="https://linkedin.com/in/lehlohonolo-saohatse-ab6ab624b">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="http://ruth3r4rd1um104.me">
+  <a href="https://lehlohonolosaohatse.tech/">
     <img src="https://img.shields.io/badge/Visit-Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
 </div>
