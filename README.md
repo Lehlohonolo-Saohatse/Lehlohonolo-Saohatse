@@ -78,7 +78,7 @@ Explore my latest work, organized by expertise. Each project showcases real-worl
 ### 🗄️ Data Engineer
 | Project | Description | Tech Stack | Repo |
 |---------|-------------|------------|------|
-| **[SA Retail Analytics – Microsoft Fabric End-to-End Data Engineering](https://github.com/Lehlohonolo-Saohatse/Data-Engineering-Sales-Analytics-Using-Microsoft-Fabric-Project)** | Production-grade data engineering project on realistic South African retail data: Bronze → Silver → Gold medallion architecture, PySpark transformations, an automated daily pipeline, and a live 4-page Power BI dashboard (DirectLake). | Microsoft Fabric, PySpark 3.x, Delta Lake, Power BI, Python | [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat&logo=github)](https://github.com/Lehlohonolo-Saohatse/Data-Engineering-Sales-Analytics-Using-Microsoft-Fabric-Project) |
+| **[SA Retail Analytics - Microsoft Fabric End-to-End Data Engineering](https://github.com/Lehlohonolo-Saohatse/Data-Engineering-Sales-Analytics-Using-Microsoft-Fabric-Project)** | Production-grade data engineering project on realistic South African retail data: Bronze → Silver → Gold medallion architecture, PySpark transformations, an automated daily pipeline, and a live 4-page Power BI dashboard (DirectLake). | Microsoft Fabric, PySpark 3.x, Delta Lake, Power BI, Python | [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat&logo=github)](https://github.com/Lehlohonolo-Saohatse/Data-Engineering-Sales-Analytics-Using-Microsoft-Fabric-Project) |
 
 ### 📊 Data Scientist
 | Project | Description | Tech Stack | Repo |
