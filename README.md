@@ -75,11 +75,28 @@ I build scalable data systems that transform raw data into actionable intelligen
 
 Explore my latest work, organized by expertise. Each project showcases real-world applications with clean code, scalable architecture, and innovative problem-solving. Dive into the repos for live demos, architecture diagrams, and detailed insights.
 
+### 🗄️ Data Engineer
+| Project | Description | Tech Stack | Repo |
+|---------|-------------|------------|------|
+| **[SA Retail Analytics – Microsoft Fabric End-to-End Data Engineering](https://github.com/Lehlohonolo-Saohatse/Data-Engineering-Sales-Analytics-Using-Microsoft-Fabric-Project)** | Production-grade data engineering project on realistic South African retail data: Bronze → Silver → Gold medallion architecture, PySpark transformations, an automated daily pipeline, and a live 4-page Power BI dashboard (DirectLake). | Microsoft Fabric, PySpark 3.x, Delta Lake, Power BI, Python | [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat&logo=github)](https://github.com/Lehlohonolo-Saohatse/Data-Engineering-Sales-Analytics-Using-Microsoft-Fabric-Project) |
+
+### 📊 Data Scientist
+| Project | Description | Tech Stack | Repo |
+|---------|-------------|------------|------|
+| **[Data Analytics Portfolio (Excel, SQL & Python)](https://github.com/Lehlohonolo-Saohatse/Data-Analytics-Portfolio-with-Excel-SQL-Python)** | Curated analyses from sales performance to customer behaviour and order/product analysis, with Excel pivot tables/dashboards and SQL-based segmentation. | Python (Pandas, NumPy) · SQL (SQLite/PostgreSQL) · Excel · Jupyter | [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat&logo=github)](https://github.com/Lehlohonolo-Saohatse/Data-Analytics-Portfolio-with-Excel-SQL-Python) |
+| **[Time Series Analysis & Forecasting Projects](https://github.com/Lehlohonolo-Saohatse/Time-Series-Analysis-And-Forecasting-Projects)** | Retail sales forecasting on 9,800 transaction records: decomposition, stationarity/ACF/PACF testing, and a 4-model comparison (AR, MA, ARIMA, SARIMA) with backtesting on MAE/RMSE/MAPE. | Python · Statsmodels · Pandas · Jupyter/Colab | [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat&logo=github)](https://github.com/Lehlohonolo-Saohatse/Time-Series-Analysis-And-Forecasting-Projects) |
+| **[Credit Risk Modelling Using Machine Learning](https://github.com/Lehlohonolo-Saohatse/Credit-Risk-Modelling-Using-Machine-Learning)** | End-to-end credit risk classification on the German Credit Risk dataset: EDA, feature engineering, GridSearchCV-tuned tree-based models, and a Streamlit app serving live risk predictions. | Python · scikit-learn · XGBoost · Streamlit | [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat&logo=github)](https://github.com/Lehlohonolo-Saohatse/Credit-Risk-Modelling-Using-Machine-Learning) |
+| **[Big Data Analytics Projects](https://github.com/Lehlohonolo-Saohatse/Big-Data-Analytics-Projects)** | Academic module portfolio (ITBDA4) spanning R programming, EDA, statistical analysis, data mining, Hadoop/MapReduce, and in-database analytics with PostgreSQL/MADlib. | R · PostgreSQL · Hadoop · MADlib | [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat&logo=github)](https://github.com/Lehlohonolo-Saohatse/Big-Data-Analytics-Projects) |
+| **[Data Mining and Data Administration Projects](https://github.com/Lehlohonolo-Saohatse/Data-Mining-and-Data-Administration-Projects)** | ITDAA4 module project on student performance data: clustering (K-Means + PCA), pass/fail classification (Logistic Regression vs. Decision Tree), and supporting SQL queries. | Python · scikit-learn · pandas · SQL | [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat&logo=github)](https://github.com/Lehlohonolo-Saohatse/Data-Mining-and-Data-Administration-Projects) |
+| **[Coding Summer School Projects](https://github.com/Lehlohonolo-Saohatse/coding_summer_school/tree/main/Coding%20Summer%20School)** | Bootcamp deliverables: ML models for predictive analytics and data pipelines for real datasets. | Python · Scikit-learn · Matplotlib · NumPy | [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat&logo=github)](https://github.com/Lehlohonolo-Saohatse/coding_summer_school) |
+| **[Wine Quality - Advanced Regression](https://github.com/Lehlohonolo-Saohatse/coding_summer_school/blob/main/Coding%20Summer%20School/Week%202%20-%20NITheCS/day09/day09/2%20Advanced_regression_example_wine.ipynb)** | ML pipeline optimizing wine classification with ensemble methods and hyperparameter tuning. | Python · Scikit-learn · Pandas · Seaborn | [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat&logo=github)](https://github.com/Lehlohonolo-Saohatse/wine-quality-advanced-regression) |
+| **[Healthcare Chatbot](https://github.com/Lehlohonolo-Saohatse/healthcare-chatbot)** | Rule-based AI assistant for symptom triage using FOL inference engine. | Python · NLTK · Prolog Integration | [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat&logo=github)](https://github.com/Lehlohonolo-Saohatse/healthcare-chatbot) |
+
 ### 🌐 AI Engineer
 | Project | Description | Tech Stack | Repo |
 |---------|-------------|------------|------|
 | **[Master ML, DL & AI Agents – TensorFlow + PyTorch](https://github.com/Lehlohonolo-Saohatse/master-ml-dl-ai-agents-tensorflow-pytorch-projects)** | Hands-on portfolio for AI Engineer Associate Certificate: advanced feature engineering, classical ML (trees/ensembles/XGBoost), neural nets from scratch (NumPy), TensorFlow/Keras & PyTorch (CNNs, custom loops, autograd), foundational AI agents. Ongoing – weekly notebooks, visualizations, mini-projects (churn, image classification, etc.). | Python, NumPy, Pandas, scikit-learn, XGBoost, TensorFlow 2.x/Keras, PyTorch 2.x, Matplotlib/Seaborn, Jupyter | [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat&logo=github)](https://github.com/Lehlohonolo-Saohatse/master-ml-dl-ai-agents-tensorflow-pytorch-projects) |
-
+| **[South African Budget RAG LLM Chatbot](https://github.com/Lehlohonolo-Saohatse/SA-Budget-RAG-LLM-Chatbot)** | RAG chatbot for querying and comparing SA National Budget documents (2023-2026), with multi-year comparison, source-grounded answers, and semantic search over budget PDFs. Deployed live on Streamlit. | Python, LangChain, ChromaDB, Groq (LLaMA 3.3 70B), HuggingFace Embeddings, Streamlit | [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat&logo=github)](https://github.com/Lehlohonolo-Saohatse/SA-Budget-RAG-LLM-Chatbot) [![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://sa-budget-rag-llm-chatbot.streamlit.app/) |
 
 ### 🌐 Network Engineer
 | Project | Description | Tech Stack | Repo |
@@ -92,13 +109,6 @@ Explore my latest work, organized by expertise. Each project showcases real-worl
 | **[Microcontroller Systems Projects](https://github.com/Lehlohonolo-Saohatse/microcontroller-systems-projects)** | Hands-on labs building IoT prototypes with LED controls, sensor integrations, and assembly debugging. | Assembly · PIC16F84 · MPLAB IDE · EasyPIC v7 | [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat&logo=github)](https://github.com/Lehlohonolo-Saohatse/microcontroller-systems-projects) |
 | **[Signals and Systems Projects](https://github.com/Lehlohonolo-Saohatse/Signals-and-Systems-Projects)** | Labs from Signals and Systems module, featuring MATLAB simulations of motion under gravity, probability distributions, FFT signal analysis, radioactive decay, and LTI system responses. | MATLAB R2023a · Git | [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat&logo=github)](https://github.com/Lehlohonolo-Saohatse/Signals-and-Systems-Projects)
 
-### 📊 Data Scientist
-| Project | Description | Tech Stack | Repo |
-|---------|-------------|------------|------|
-| **[Data Analytics Portfolio](https://github.com/Lehlohonolo-Saohatse/data-analytics-portfolio)** | Curated analyses from sales forecasting to customer segmentation, with interactive dashboards. | Python · Pandas · Tableau · SQL · Jupyter | [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat&logo=github)](https://github.com/Lehlohonolo-Saohatse/data-analytics-portfolio) |
-| **[Coding Summer School Projects](https://github.com/Lehlohonolo-Saohatse/coding_summer_school/tree/main/Coding%20Summer%20School)** | Bootcamp deliverables: ML models for predictive analytics and data pipelines for real datasets. | Python · Scikit-learn · Matplotlib · NumPy | [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat&logo=github)](https://github.com/Lehlohonolo-Saohatse/coding_summer_school) |
-| **[Wine Quality - Advanced Regression](https://github.com/Lehlohonolo-Saohatse/coding_summer_school/blob/main/Coding%20Summer%20School/Week%202%20-%20NITheCS/day09/day09/2%20Advanced_regression_example_wine.ipynb)** | ML pipeline optimizing wine classification with ensemble methods and hyperparameter tuning. | Python · Scikit-learn · Pandas · Seaborn | [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat&logo=github)](https://github.com/Lehlohonolo-Saohatse/wine-quality-advanced-regression) |
-| **[Healthcare Chatbot](https://github.com/Lehlohonolo-Saohatse/healthcare-chatbot)** | Rule-based AI assistant for symptom triage using FOL inference engine. | Python · NLTK · Prolog Integration | [![View Repo](https://img.shields.io/badge/View_Repo-GitHub-181717?style=flat&logo=github)](https://github.com/Lehlohonolo-Saohatse/healthcare-chatbot) |
 
 ### 💻 Software Engineer
 | Project | Description | Tech Stack | Repo |
@@ -136,7 +146,7 @@ Explore my latest work, organized by expertise. Each project showcases real-worl
 
 I'm always open to collaborating on **tech for good**, solving interesting problems, or geeking out over clean API design and low-level optimizations.
 
-> 💬 **Drop me a message. Let’s build the future, one commit at a time.**
+> 💬 **Drop me a message. Let's build the future, one commit at a time.**
 
 <div align="center">
   <a href="https://linkedin.com/in/lehlohonolo-saohatse-ab6ab624b">
@@ -155,5 +165,5 @@ I'm always open to collaborating on **tech for good**, solving interesting probl
 
 
 <div align="center">
-  <sub><em>© 2025 Lehlohonolo Saohatse. Built with ❤️ using GitHub Pages.</em></sub>
+  <sub><em>© 2025 Lehlohonolo Saohatse.</em></sub>
 </div>
